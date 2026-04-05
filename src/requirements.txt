@@ -1,0 +1,15 @@
+bitsandbytes
+transformers
+peft
+accelerate
+datasets
+scipy
+einops
+evaluate
+trl
+torch
+sentencepiece
+streamlit
+
+# Caso nao reconheça a GPU:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
