@@ -1,3 +1,6 @@
+# LINK DO VIDEO DE APRESENTAÇÃO DO PROJETO: https://youtu.be/ojDJGkvcbLA
+
+
 O Sabia-7B Instruction é um modelo de linguagem de grande escala para português, que foi ajustado usando o conjunto de dados de seguimento de instruções [Canarim-Instruct-PTBR](https://huggingface.co/datasets/dominguesm/Canarim-Instruct-PTBR-Dataset).
 
 Este projeto é o trabalho final da disciplina de DeepLearning
